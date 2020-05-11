@@ -19,8 +19,8 @@ the users listen to.
 ## Configuration
 
 Make sure to add the following Airflow connections:
-    * AWS credentials
-    * Connection to redshift database
+  - AWS credentials
+  - Connection to redshift database
 
 ## Usage
 
